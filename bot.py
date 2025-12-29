@@ -7,7 +7,7 @@ from telegram.constants import ChatAction
 
 # ===== CONFIGURATION =====
 # Replace with your actual bot token from @BotFather
-BOT_TOKEN = '8482443270:AAH3vSKg-68wtlIGvGIkERA5KkvQYKG94AU'
+BOT_TOKEN = '7717413257:AAGc68RUcaxifvvY_69ymqGiQpqAvJsepLU'
 # Replace with your Telegram user ID (get it from @userinfobot)
 MY_USER_ID = 7984931982  # e.g., 123456789
 
